@@ -1,6 +1,8 @@
 # Roll-the-dice
-#### This is a 2 Player Dice game.
-#### Inspiered from the Anglea Yu's Course on Complete Web Developement.
+ This is a 2 Player Dice game. 
+ 
+ Inspiered from the Anglea Yu's Course on Complete Web Developement.
+
 ---
 ### New Features:
 New features include-
