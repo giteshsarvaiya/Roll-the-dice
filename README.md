@@ -1,2 +1,2 @@
 # Roll-the-dice
-This is a Dice game between two players.
+This is a 2 Player Dice game.
